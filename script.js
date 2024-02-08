@@ -15,5 +15,5 @@ function performPrediction(inputData) {
     // This function should handle the actual prediction based on the input data
     // You may use libraries like TensorFlow.js or scikit-learn.js for machine learning tasks
     // For simplicity, this example assumes a random prediction
-    return Math.floor(Math.random() * 100);
+    return Math.floor(Math.random() * 1000);
 }
